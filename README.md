@@ -6,5 +6,5 @@ My name is Jessica, nice to meet you! I'm gratuading in Engineering Computer and
 - Studing technologies: CSS, HMTL, JS, NodeJs and Python.
 - Recently started in the Launchbase, bootcamp from Rocketseat.
 
----
+-
 <h3> Take your time, enjoy my repository! 😁 </h3>
