@@ -1,6 +1,6 @@
 <h1 align = center>Hey, Everyone! 👩‍💻</h1>
 
-My name is Jessica, nice to meet you! I'm gratuading in Engineering Computer and future Developer Full-Stack.🚀
+My name is Jessica, nice to meet you! I'm gratuading in Engineering Computer.🚀
 -
 
 - Studing technologies: CSS3, HTML5, JavaScript, NodeJs, Python, SQL and outhers.
