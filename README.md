@@ -3,8 +3,9 @@
 My name is Jessica, nice to meet you! I'm gratuading in Engineering Computer.🚀
 -
 
-- Studing technologies: CSS3, HTML5, JavaScript, NodeJs, Python, SQL and outhers.
-- Recently started in the Launchbase, bootcamp from Rocketseat.
+-  Skills: CSS3, HTML5, JavaScript, NodeJs, Python, SQL and outhers.
+-  Studing technologies: ReactJS, Flutter.
+-  Hobbies: listen musics, read, hug my dogs and sometimes learning about machine learning. 
 
 
 <h3> Take your time, enjoy my repository! 😁 </h3>
