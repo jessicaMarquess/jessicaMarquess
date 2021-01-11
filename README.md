@@ -9,3 +9,5 @@ My name is Jessica, nice to meet you! I'm gratuading in Engineering Computer.ğŸš
 
 
 <h3> Take your time, enjoy my repository! ğŸ˜ </h3>
+<h3>About</h3>
+![jessicaMarquess github stats](https://github-readme-stats.vercel.app/api?username=jessicaMarquess&show_icons=true)
