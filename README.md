@@ -13,7 +13,7 @@ Meu nome é Jessica e esse é meu perfil no GitHub! Sinta-se a vontade em vascul
 
 <h2>Sobre mim 📖</h2>
 
- - 🔨 Atualmente estou trabalhando como Desenvolvedora Full-Stack Jr na Omega Energia;
+ - 🔨 Atualmente estou trabalhando como Desenvolvedora Full-Stack Jr na <a href="https://omegaenergia.com.br/"  target="_blank">Omega Energia</a>;
  - 📚 Faço Engenharia da Computação na UFC - Campus Sobral;
  - 💍 Utilizando atualmente tecnologias como ReactJS, NodeJS, Typecript, Postgres;
  - 🔮 Pretendo estudar mais sobre Flutter e Python;
