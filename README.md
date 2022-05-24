@@ -14,10 +14,10 @@ Meu nome é Jessica e esse é meu perfil no GitHub! Sinta-se a vontade em vascul
 <h2>Sobre mim 📖</h2>
 
  - 🔨 Atualmente estou trabalhando como Desenvolvedora Full-Stack Jr na <a href="https://omegaenergia.com.br/"  target="_blank">Omega Energia</a>;
- - 📚 Faço Engenharia da Computação na UFC - Campus Sobral;
- - 💍 Utilizando atualmente tecnologias como ReactJS, NodeJS, Typecript, Postgres;
- - 🔮 Pretendo estudar mais sobre Flutter e Python;
- - 🎨 Quando não estou codando ou estudando estarei: lendo, ouvindo música, jogando, vendo séries e abraçada com meus dogs.
+ - 📚 Faço Análise e Desenvolvimento de Sistemas na [UNOPAR](https://www.unopar.com.br/);
+ - 💍 Utilizando atualmente tecnologias como ReactJS, NodeJS, Typecript, SQL;
+ - 🔮 Pretendo estudar mais sobre Flutter e a linguagem Dart;
+ - 🎨 Quando não estou codando ou estudando estarei: lendo, ouvindo música, jogando, vendo filmes de terror e junto com meus dogs.
 
 ---
 
