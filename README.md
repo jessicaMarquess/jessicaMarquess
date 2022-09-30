@@ -1,4 +1,4 @@
-<h1 align = center>Hey everyone! 👩‍💻</h1>
+<h1 align = center>Saluuuuuut! 👩‍💻</h1>
 
 Meu nome é Jessica e esse é meu perfil no GitHub! Sinta-se a vontade em vasculhar meu repositório e também para se conectar nas minhas redes sociais:
 
