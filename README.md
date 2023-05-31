@@ -17,7 +17,7 @@ Meu nome é Jessica e esse é meu perfil no GitHub! Sinta-se a vontade em vascul
  - 📚 Faço Análise e Desenvolvimento de Sistemas na [UNOPAR](https://www.unopar.com.br/);
  - 💍 Utilizando atualmente tecnologias como ReactJS, NodeJS, Typecript, SQL;
  - 🔮 Pretendo estudar mais sobre Flutter e a linguagem Dart;
- - 🎨 Quando não estou codando ou estudando estarei: lendo, ouvindo música, jogando, vendo filmes de terror e junto com meus dogs.
+ - 🎨 Quando não estou codando ou estudando estarei: lendo, ouvindo música, jogando, vendo filmes de terror ou mendigando atenção dos meus cachorros.
 
 ---
 
