@@ -17,7 +17,7 @@
  - 🔨 Atualmente estou trabalhando como Desenvolvedora Full-Stack Jr na <a href="https://omegaenergia.com.br/"  target="_blank">Omega Energia</a>;
  - 📚 Faço Análise e Desenvolvimento de Sistemas na [UNOPAR](https://www.unopar.com.br/);
  - 💍 Utilizando atualmente tecnologias como ReactJS, NodeJS, Typecript, SQL;
- - 🔮 Pretendo estudar mais sobre Flutter e a linguagem Dart;
+ - 🔮 Estudando mais afundo para me especializar como FrontEnd;
  - 🎨 Quando não estou codando ou estudando estarei: lendo, ouvindo música, jogando, vendo filmes de terror ou mendigando atenção dos meus cachorros.
 
 ---
