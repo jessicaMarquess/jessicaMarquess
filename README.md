@@ -14,7 +14,7 @@
 
 <h2>Sobre mim 📖</h2>
 
- - 🔨 Atualmente estou trabalhando como Desenvolvedora Full-Stack Jr na <a href="https://omegaenergia.com.br/"  target="_blank">Omega Energia</a>;
+ - 🔨 Atualmente estou trabalhando como Desenvolvedora Full-Stack Jr na <a href="https://srna.co/"  target="_blank">Serena</a>;
  - 📚 Faço Análise e Desenvolvimento de Sistemas na [UNOPAR](https://www.unopar.com.br/);
  - 💍 Utilizando atualmente tecnologias como ReactJS, NodeJS, Typecript, SQL;
  - 🔮 Estudando mais afundo para me especializar como FrontEnd;
