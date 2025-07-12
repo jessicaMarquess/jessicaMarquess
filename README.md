@@ -15,7 +15,8 @@
 <h2>Sobre mim 📖</h2>
 
  - 🔨 Atualmente estou trabalhando como Desenvolvedora Full-Stack PL na <a href="https://srna.co/"  target="_blank">Serena</a>;
- - 📚 Sou formada em Análise e Desenvolvimento de Sistemas pela [UNOPAR](https://www.unopar.com.br/);
+ - 📚 Estou fazendo pós-graduação de Full Stack Develop na [FIAP]([https://www.unopar.com.br/](https://www.fiap.com.br/));
+ - 🎓 Sou formada em Análise e Desenvolvimento de Sistemas pela [UNOPAR](https://www.unopar.com.br/);
  - 💍 Utilizando atualmente tecnologias como ReactJS, NodeJS, Javascript, Typescript, SQL;
  - 🔮 Estudando mais afundo minhas stacks como full stack, mas amo front end;
  - 🎨 Quando não estou codando ou estudando estarei: lendo, ouvindo música, jogando, vendo filmes de terror ou mendigando atenção dos meus cachorros.
