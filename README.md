@@ -60,8 +60,12 @@ Here you'll find my public projects and can follow my journey as a dev. Feel fre
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicaMarquess&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaMarquess&layout=compact&langs_count=7&theme=synthwave&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jessicaMarquess&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jessicaMarquess&layout=compact&langs_count=7&theme=synthwave&hide_border=true" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jessicaMarquess&theme=synthwave&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
